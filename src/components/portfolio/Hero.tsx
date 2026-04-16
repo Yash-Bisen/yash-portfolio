@@ -46,7 +46,7 @@ export function Hero() {
           </div>
 
           <div className="flex flex-wrap items-center gap-3">
-            <a
+             <a
               href="/yash-resume.pdf"
               download="Yash-Bisen-Resume.pdf"
               className="bg-ink text-primary-foreground px-7 py-4 font-mono text-[11px] uppercase tracking-widest hover:bg-laser transition-colors flex items-center gap-3 group rounded"
@@ -66,9 +66,9 @@ export function Hero() {
           {/* Stats */}
           <div className="mt-16 grid grid-cols-3 gap-6 max-w-lg">
             {[
-              { v: "10+", l: "Apps Shipped" },
+              { v: "5+", l: "Apps Shipped" },
               { v: "2+", l: "Years Exp." },
-              { v: "1M+", l: "Users Served" },
+              { v: "35K+", l: "Users Served" },
             ].map((s) => (
               <div key={s.l}>
                 <div className="font-sans text-3xl lg:text-4xl font-extrabold tracking-tight">

@@ -18,13 +18,13 @@ const links = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/yashBisen",
+    value: "linkedin.com/in/yash-bisen-820b2420a",
     href: profile.linkedin,
   },
   {
     icon: Github,
     label: "GitHub",
-    value: "github.com/Yashbisen",
+    value: "github.com/Yash-bisen",
     href: profile.github,
   },
 ];

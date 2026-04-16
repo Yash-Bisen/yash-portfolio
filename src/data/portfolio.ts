@@ -5,8 +5,8 @@ export const profile = {
     "Architecting high-performance mobile ecosystems — bridging native precision with cross-platform velocity.",
   email: "yashbisen0803@gmail.com",
   phone: "+91 8718898787",
-  linkedin: "https://linkedin.com/in/yashBisen",
-  github: "https://github.com/Yashbisen",
+  linkedin: "https://linkedin.com/in/yash-bisen-820b2420a",
+  github: "https://github.com/Yash-Bisen",
   location: "India",
 };
 
