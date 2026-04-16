@@ -47,12 +47,12 @@ export function Hero() {
 
           <div className="flex flex-wrap items-center gap-3">
             <a
-              href="/cv.pdf"
-              download
+              href="/yash-resume.pdf"
+              download="Yash-Bisen-Resume.pdf"
               className="bg-ink text-primary-foreground px-7 py-4 font-mono text-[11px] uppercase tracking-widest hover:bg-laser transition-colors flex items-center gap-3 group rounded"
             >
               <ArrowDown size={14} className="group-hover:translate-y-0.5 transition-transform" />
-              Download_CV.pdf
+              Download_Resume.pdf
             </a>
             <a
               href="#contact"
