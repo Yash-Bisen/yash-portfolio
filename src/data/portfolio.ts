@@ -62,7 +62,7 @@ export const experience = [
   },
   {
     role: "Android Developer",
-    org: "TaskEasy",
+    org: "IdealIt Techno Pvt Ltd",
     period: "Apr 2024 — Feb 2025",
     code: "ROLE.01",
     bullets: [
